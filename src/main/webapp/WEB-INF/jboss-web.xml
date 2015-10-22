@@ -1,0 +1,3 @@
+<jboss-web>
+    <context-root>bqueue</context-root>
+</jboss-web>
